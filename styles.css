@@ -1,0 +1,30 @@
+#main {
+  background:black;
+  color: white;
+  text-align: center;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border-color: #e68a00;
+  border-width: 2px;
+  border-radius: 2px;
+  border-style: solid;
+}
+a {
+  color: #e68a00;
+}
+h1 {
+  font-family: Lobster, monospace;
+}
+ul {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: left;
+}
+li {
+  margin: 10px;
+}

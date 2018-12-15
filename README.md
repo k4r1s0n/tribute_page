@@ -1,1 +1,1 @@
-# tribute_page
+# Freddie Mercury Tribute Page
